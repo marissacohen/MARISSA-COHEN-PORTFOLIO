@@ -1,4 +1,4 @@
-# Maya Cohen Portfolio
+# Marissa Cohen Portfolio
 
 Personal portfolio site showcasing AI product marketing and GTM case studies.
 
