@@ -21,7 +21,7 @@ const HeroSection = () => {
           transition={{ duration: 0.8, ease: [0.2, 0, 0, 1] }}
           className="text-[clamp(2.5rem,6vw,5.5rem)] leading-[0.9] font-semibold tracking-tighter text-foreground mb-8 whitespace-nowrap">
           
-          Maya Cohen
+          Marissa Cohen
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 16 }}
