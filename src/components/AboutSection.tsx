@@ -22,7 +22,7 @@ const AboutSection = () =>
         <div className="relative w-full h-full rounded-full overflow-hidden">
           <img
           src={headshot}
-          alt="Maya Cohen professional headshot"
+          alt="Marissa Cohen professional headshot"
           className="w-full h-full object-cover grayscale contrast-125 scale-150" />
         
           {/* Key light from upper left */}
